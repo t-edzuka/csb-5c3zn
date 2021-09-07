@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://t-edzuka.github.io/csb-5c3zn/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://t-edzuka.github.io/csb-5c3zn/static/js/main.e4da4748.chunk.js",
+    "main.js.map": "https://t-edzuka.github.io/csb-5c3zn/static/js/main.e4da4748.chunk.js.map",
+    "runtime-main.js": "https://t-edzuka.github.io/csb-5c3zn/static/js/runtime-main.8b531d3a.js",
+    "runtime-main.js.map": "https://t-edzuka.github.io/csb-5c3zn/static/js/runtime-main.8b531d3a.js.map",
+    "static/js/2.5b4e9a15.chunk.js": "https://t-edzuka.github.io/csb-5c3zn/static/js/2.5b4e9a15.chunk.js",
+    "static/js/2.5b4e9a15.chunk.js.map": "https://t-edzuka.github.io/csb-5c3zn/static/js/2.5b4e9a15.chunk.js.map",
+    "index.html": "https://t-edzuka.github.io/csb-5c3zn/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://t-edzuka.github.io/csb-5c3zn/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5b4e9a15.chunk.js.LICENSE.txt": "https://t-edzuka.github.io/csb-5c3zn/static/js/2.5b4e9a15.chunk.js.LICENSE.txt",
+    "static/media/kinako2.c8801558.jpg": "https://t-edzuka.github.io/csb-5c3zn/static/media/kinako2.c8801558.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b531d3a.js",
+    "static/js/2.5b4e9a15.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e4da4748.chunk.js"
+  ]
+}
